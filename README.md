@@ -1,0 +1,1 @@
+A variant of the merge sort algorithm. 
