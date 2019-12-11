@@ -2,47 +2,8 @@
 /**
  * Standard Cons-cells
  *
- * @author Stefan Kahrs
+ * @author Jamie Ghoorbin
  * @version 1
- * <p>
- * <p>
- * type parameter T
- * Below is an explanation for the fancy stuff
- * attached to that type parameter.
- * For the assessment you do not need to know this,
- * but if you are curious: read on!
- * <p>
- * Because we want to be able to compare the elements
- * of the list with one another, we require that
- * class T implements the Comparable interface.
- * That interface has itself a type parameter, which
- * gives you what these values can be compared to.
- * The reason this is (in the most general case) not just T
- * itself is the following scenario:
- * class X implements the interface,
- * so we can compare Xs with Xs, then we define a subclass Y of X,
- * so it inherits the compareTo method from X,
- * but Ys are now compared with Xs.
- */
-
-/**
- * type parameter T
- * Below is an explanation for the fancy stuff
- * attached to that type parameter.
- * For the assessment you do not need to know this,
- * but if you are curious: read on!
- *
- * Because we want to be able to compare the elements
- * of the list with one another, we require that
- * class T implements the Comparable interface.
- * That interface has itself a type parameter, which
- * gives you what these values can be compared to.
- * The reason this is (in the most general case) not just T
- * itself is the following scenario:
- * class X implements the interface,
- * so we can compare Xs with Xs, then we define a subclass Y of X,
- * so it inherits the compareTo method from X,
- * but Ys are now compared with Xs.
  */
 
 import java.util.Queue;
