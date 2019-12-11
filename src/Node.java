@@ -1,6 +1,6 @@
 
 /**
- * Standard Cons-cells
+ *  A variant of mergeSort for linked lists
  *
  * @author Jamie Ghoorbin
  * @version 1
