@@ -1,7 +1,8 @@
 # Merge Sort Variant
 
-> ### Course: Algorithms, Correctness and Efficiency
-### Second year university assignment
+> ### Second year university assignment
+### Course: Algorithms, Correctness and Efficiency
+
 #### A variant of the merge sort algorithm
 #### Final grade: 100%
 
